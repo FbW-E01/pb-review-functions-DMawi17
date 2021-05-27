@@ -85,9 +85,9 @@ newRandom();
 // 11. In your own words, explain what are side effects and what is a pure function.
 
 /*
-- Side effects: are when functions change something outside of them, like global variables for example.
+- Side effects: are when functions change something outside of it, like global variables for example.
 
-- Pure functions: are functions that don't use anything from outside; affect anything outside of them and always return the same output when given the same input. Unlike the function randomWithRange() above.
+- Pure functions: are functions that don't use anything from outside; affect anything outside of it and always return the same output when given the same input. Unlike the function randomWithRange() above.
 */
 
 // 12. In your own words, explain what is the difference between functions and methods.
